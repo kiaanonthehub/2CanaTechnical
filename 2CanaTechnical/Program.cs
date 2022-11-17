@@ -8,6 +8,6 @@ QuestionB questionB = new QuestionB();
 questionA.ReadSalesAmt();
 questionA.Display();
 
-// -- quesion b
+// -- question b
 
 
