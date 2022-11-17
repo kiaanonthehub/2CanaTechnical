@@ -5,9 +5,13 @@ QuestionA questionA = new QuestionA();
 QuestionB questionB = new QuestionB();
 
 // -- question a
-questionA.ReadSalesAmt();
-questionA.Display();
+//questionA.ReadSalesAmt();
+//questionA.Display();
 
 // -- question b
+questionB.ReadSalesAmt();
+questionB.ApplyNewDiscountRule();
+questionB.Display();
+
 
 
